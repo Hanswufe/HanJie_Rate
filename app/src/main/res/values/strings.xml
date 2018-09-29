@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RateApplication</string>
+    <string name="btn_save_label">save</string>
+    <string name="btn_opencfg_label">Open Config</string>
+</resources>
