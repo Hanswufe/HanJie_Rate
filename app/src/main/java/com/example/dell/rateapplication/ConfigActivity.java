@@ -17,7 +17,7 @@ public class ConfigActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_config);
+        setContentView(R.layout.activity_config1);
         Intent intent = getIntent();
         float dollar2 = intent.getFloatExtra("dollar_rate_key", 0.0f);
         float euro2 = intent.getFloatExtra("euro_rate_key", 0.0f);

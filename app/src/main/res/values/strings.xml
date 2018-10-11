@@ -8,4 +8,12 @@
     <string name="btn_won_label">Won</string>
     <string name="rmb_hint_label">Input RMB</string>
     <string name="menu_set_label">menu</string>
+    <string name="team_label1">Team A</string>
+    <string name="team_label2">Team B</string>
+    <string name="scorea">0</string>
+    <string name="btn_label1">+3 points</string>
+    <string name="btn_label2">+2 points</string>
+    <string name="btn_label3">FREE THROW</string>
+    <string name="btn_reset_label">reset</string>
+    <string name="app_name2">CourtCounter</string>
 </resources>
