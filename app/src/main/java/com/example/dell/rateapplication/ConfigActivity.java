@@ -5,7 +5,6 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
-import android.widget.Button;
 import android.widget.EditText;
 
 public class ConfigActivity extends AppCompatActivity {
@@ -17,7 +16,7 @@ public class ConfigActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_config1);
+        setContentView(R.layout.activity_config);
         Intent intent = getIntent();
         float dollar2 = intent.getFloatExtra("dollar_rate_key", 0.0f);
         float euro2 = intent.getFloatExtra("euro_rate_key", 0.0f);

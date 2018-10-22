@@ -16,4 +16,5 @@
     <string name="btn_label3">FREE THROW</string>
     <string name="btn_reset_label">reset</string>
     <string name="app_name2">CourtCounter</string>
+    <string name="app_name3">MyRateList</string>
 </resources>
